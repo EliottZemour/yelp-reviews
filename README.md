@@ -12,8 +12,8 @@ virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-
-A GPU is recommended for training. If you don't have one, you can use a free GPU from [Google Colab](https://colab.research.google.com/).
+> [!NOTE]
+> A GPU is recommended for training. If you don't have one, you can use a free GPU from [Google Colab](https://colab.research.google.com/).
 
 ### Fine tuning
 
